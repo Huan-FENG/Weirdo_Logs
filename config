@@ -1,0 +1,6 @@
+LOG_PATH=logs
+ORINGAL_LOG_PATH=ologs
+COMPLETED_TASK_LIST_PATH=completed_task_list.txt
+LOG_ANALYSIS_PATH=analysis
+UNDO_TASK_LIST_PATH=undo_task_list.txt
+LUT_PATH=LUT.txt
